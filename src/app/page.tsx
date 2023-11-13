@@ -1,6 +1,6 @@
 import Navbar from './components/navbar';
 import Footer from './components/footer';
-import Card from './components/card/card';
+// import Card from './components/card';
 
 
 export default function Home() {
@@ -8,7 +8,7 @@ export default function Home() {
     <main>
       <Navbar/>
       <div>
-        <Card/>
+        {/* <Card/> */}
       </div>
       <Footer/>
     </main>
