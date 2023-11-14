@@ -1,4 +1,3 @@
-"use client";
 import { TiShoppingCart } from "react-icons/ti";
 import styled from "styled-components";
 
